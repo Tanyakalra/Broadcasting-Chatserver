@@ -1,7 +1,8 @@
 # Broadcasting-Chatserver
 Chat server and client using core java for either for personal or profesional use.
 
-2.1 Objective/ Vision
+Objective/ Vision
+
 Users can interact to each other. They can share information to all others.
 
 Software Requirement to run this project 
